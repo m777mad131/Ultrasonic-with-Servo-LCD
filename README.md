@@ -1,4 +1,4 @@
-# Three-Moves-Robot-Arm
+# Ultrasonic-with-Servo-LCD
 // C++ code
 //
 #include <Servo.h>
